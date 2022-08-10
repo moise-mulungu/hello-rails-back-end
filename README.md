@@ -1,24 +1,65 @@
-# README
+# Rails project with a React and Redux front-end with two apps
+linke to react app: https://github.com/moise-mulungu/hello-react-front-end/tree/develop/Module_six/hello-react-front-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Learning objectives
+- I implemented the connection between a hello world back-end app with a front-end app with rails and react 
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Getting Started
 
-* Database creation
+### Prerequisites
+- Ruby
+- Rails gem
+- PostgresQL
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+**step1)** cloning the project:
 
-* Services (job queues, cache servers, search engines, etc.)
+`git@github.com:moise-mulungu/hello-rails-back-end.git`
 
-* Deployment instructions
+**step2)** go to the right folder:
 
-* ...
+`cd hello-rails-back-end`
+
+**step3)** Install:
+
+`bundle install`
+
+**step4)** run the command:
+
+`rails s`
+
+or
+
+`ruby bin\rails server` (recomended if you are using windows OS)
+
+**Run linters:**
+
+`rubocop`
+
+## Author
+
+👤 **Moise Mulungu**
+
+- GitHub: [@moise-mulungu](https://github.com/moise-mulungu)
+- Twitter: [@moise_mulungu](https://twitter.com/moise_mulungu)
+- LinkedIn: [Moïse (Musa) Mulungu](https://www.linkedin.com/in/moisemulungu/) 
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/moise-mulungu/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./MIT.md) licensed.
